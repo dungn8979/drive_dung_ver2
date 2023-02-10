@@ -1,0 +1,30 @@
+﻿  ConvertTypeData.c
+  Draf1.c
+  Draf2.c
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Draf2.c(8,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Draf2.c(19,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  KiemTraSoNguyenTo.c
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\KiemTraSoNguyenTo.c(10,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\KiemTraSoNguyenTo.c(19,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Library_string.h.c
+  Library_Time.h.c
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Library_Time.h.c(24,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Library_Time.h.c(26,7): error C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Library_Time.h.c(29,16): error C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Library_Time.h.c(31,16): error C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Point_Array.c
+  Scanf_va_Gets.c
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Scanf_va_Gets.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Scanf_va_Gets.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Scanf_va_Gets.c(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Scanf_va_Gets.c(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Short_Array_One_Dimensional.c
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Short_Array_One_Dimensional.c(9,23): warning C4018: '<': signed/unsigned mismatch
+  Thi_CLC_BaiSo2_Nam2020.c
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Thi_CLC_BaiSo2_Nam2020.c(12,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Thi_CLC_BaiSo2_Nam2020.c(17,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Thi_CLC_BaiSo2_Nam2020.c(90,64): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Thi_CLC_BaiSo2_Nam2020.c(37,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Thi_CLC_BaiSo2_Nam2020.c(109,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Tim_Do_Dai_Cua_Mang_1_Chieu.c
+F:\dung\Lập trình\C\Draft\DrafNewBie\DrafNewBie\Tim_Do_Dai_Cua_Mang_1_Chieu.c(5,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
